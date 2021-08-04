@@ -3,3 +3,6 @@
 __author__ = """Bart Stroeken"""
 __email__ = 'bart.stroeken@gmail.com'
 __version__ = '0.1.0'
+
+from filehandling import QuteJSON
+from .log import log
